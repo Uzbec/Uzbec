@@ -2,7 +2,8 @@
 
 ## Computer science student from Russia 🇷🇺
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3A65F7&center=true&width=435&height=52&lines=My+Tech+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Tech+Stack)](https://git.io/typing-svg)
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
