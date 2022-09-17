@@ -2,8 +2,8 @@
 
 ## Computer science student from Russia 🇷🇺
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Tech+Stack)](https://git.io/typing-svg)
 
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,6 +25,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+## 𝗦𝘁𝗮𝘁𝘀
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uzbec&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uzbec&theme=solarized_dark)
